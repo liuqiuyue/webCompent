@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Jquery" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/../mic/mstatic/common/js/libs/jquery.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../mic/mstatic/common/js/libs/jquery.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="http://api.jquery.com" />
+    </DOCUMENTATION>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
